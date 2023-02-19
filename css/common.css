@@ -129,6 +129,10 @@ footer{
     width: 100px;
   }
   
+  .header-site-menu.is-show{
+    display: block;
+  }
+  
   .toggle-menu-button{
     display: block;
     width: 44px;
@@ -151,10 +155,6 @@ footer{
     display: none;
   }
   
-  .header-site-menu.is-show{
-    display: block;
-  }
-  
   .site-menu ul{
     display: block;
     text-align: center;
@@ -163,4 +163,21 @@ footer{
   .site-menu li{
     margin-top: 20px;
   }
-}
+  
+  .main{
+    padding-top: 50px;
+  }
+  /*--------------------footer--------------------*/
+  .footer-logo{
+    margin-top: 60px;
+  }
+  
+  .footer-tel{
+    font-size:20px;
+  }
+  
+  .copyright{
+    margin-top: 50px;
+  }
+  
+}/*レスポンシブ*/
