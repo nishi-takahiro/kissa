@@ -118,7 +118,7 @@
 .footer{
   margin-top: 100px;
 }
-
+/*--------------------レスポンシブ--------------------*/
 @media (max-width: 800px){
   .feature{
    display: block;
